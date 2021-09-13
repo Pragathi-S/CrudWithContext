@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.context.css"],"names":[],"mappings":"AAAA,EACI,SACJ,CAEA,GAEI,6BAAsB,CAAtB,qBACJ,CAEA,SAJI,iBAMJ","file":"main.071529cb.chunk.css","sourcesContent":["*{\r\n    margin: 2%;\r\n}\r\n\r\nh3{\r\n    text-align: center;\r\n    text-decoration: solid;\r\n}\r\n\r\nTable{\r\n    text-align: center;\r\n}"]}
